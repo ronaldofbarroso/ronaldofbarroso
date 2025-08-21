@@ -1,32 +1,43 @@
-<h1 align="center">Oi 👋, Meu nome é Ronaldo</h1>
-<h3 align="center">Apaixonado pela área de dados</h3>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-- 👨‍💻 Todos os meus projetos estão disponíveis aqui [https://sites.google.com/view/portiflio-ronaldo-filho/in%C3%ADcio](https://sites.google.com/view/portiflio-ronaldo-filho/in%C3%ADcio)
+###
 
-- 💬 Me pergunte sobre **SQL, Python, Power BI, Excel**
+<div align="center">
+  <a href="www.linkedin.com/in/ronaldofb-sf" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
-- 📫 Você me acha através do e-mail **rfbarroso99@gmail.com**
+###
 
-- 📄 Esse é meu Linkedin [linkedin.com/in/ronaldofbarroso](linkedin.com/in/ronaldofbarroso)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ronaldofbarroso.ronaldofbarroso&"  />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+<h1 align="center">hey there 👋</h1>
 
+###
 
+<h3 align="left">👩‍💻  About Me</h3>
 
+###
 
-<!---
-ronaldofbarroso/ronaldofbarroso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 👋 Hi, I’m @ronaldofbarroso
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---->
+<p align="left">👋 Olá! Sou Ronaldo.<br><br>🔭 Estou estudando para me tornar desenvolvedor Salesforce<br><br>📚 Atualmente aprendendo Apex, Flow e administração na plataforma<br><br>⚡ No tempo livre gosto de explorar trilhas no Trailhead e criar projetos práticos<br><br>TrailHead: https://www.salesforce.com/trailblazer/ronaldofilho</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" alt="salesforce logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
